@@ -57,7 +57,6 @@ En tant que passionné de tests automatisés et de technologie, j’accorde une 
 ### 📬 Me contacter : 
 - **LinkedIn :** [Mon profil](https://www.linkedin.com/in/r%C3%A9mi-cruzel-0284921a0/)
 - **Malt :** [Mon profil freelance](https://www.malt.fr/profile/remicruzel)
-- **GitHub :** [Mon profile Github](https://github.com/Sunlyst)  
 - **Email :** [pro.remi.cruzel@gmail.com](mailto:pro.remi.cruzel@gmail.com)  
 
 Je suis toujours ouvert à discuter de nouvelles opportunités, collaborations ou simplement partager des idées autour de la QA et de l’automatisation des tests. N’hésitez pas à me contacter !
